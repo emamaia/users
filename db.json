@@ -1,0 +1,39 @@
+{ "users": [
+    {
+        "isFirstAcess": true,
+        "isAccountHolder": false,
+        "hasInternalPassword": false,
+        "contractNumber": 12345678,
+        "sellerProposalNumber": 5555,
+        "typeContact": ["email", "telefone"],
+        "contact": [ "*****hjs@hotmail.com", "******4212"]
+    },
+    {
+        "isFirstAcess": true,
+        "isAccountHolder": false,
+        "hasInternalPassword": false,
+        "contractNumber": 1898876778,
+        "sellerProposalNumber": 9855,
+        "typeContact": ["email", "telefone"],
+        "contact": [ "*****ema@hotmail.com", "******4562"]
+    },
+    {
+        "isFirstAcess": false,
+        "isAccountHolder": true,
+        "hasInternalPassword": true,
+        "contractNumber": 12868584,
+        "sellerProposalNumber": 9825,
+        "typeContact": ["email", "telefone"],
+        "contact": [ "*****hjs@gmail.com", "******3212"]
+    },
+    {
+        "isFirstAcess": true,
+        "isAccountHolder": false,
+        "hasInternalPassword": false,
+        "contractNumber": 12345678,
+        "sellerProposalNumber": 5555,
+        "typeContact": ["email", "telefone"],
+        "contact": [ "*****rebeca@hotmail.com", "******3422"]
+    }
+]
+}
